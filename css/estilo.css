@@ -1,0 +1,108 @@
+header{
+    color: red;
+    word-spacing: 10px;
+    font-family: 'Catamaran', sans-serif;
+}
+.titulo{
+    color: red;
+    word-spacing: 10px;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 45px;
+}
+ul a {
+    font-style: normal;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-align: left;
+    text-decoration: none;
+}
+.visited {
+    text-decoration: none;
+    color:red;
+    }
+    a:active {
+    text-decoration: none;
+    }
+nav{
+    color:red;
+}
+section{
+    color: black;
+}
+section h4 {
+    color: red;
+}
+.encabezado{
+    color:lightseagreen;
+}
+.descripcionIndex{
+    color:black;
+    font-style: normal;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    line-height: 40px;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+    border-right: 5px red solid;
+    border-left: 5px red solid;
+}
+.txt--primera {
+    font-style: normal;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 15px;
+    letter-spacing: 5px;
+    text-align: left;
+}
+.txt--segunda {
+    font-style: normal;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    line-height: 40px;
+}
+.txt--tercera {
+font-style: normal;
+font-family: 'Catamaran', sans-serif;
+font-size: 20px;
+text-align: right;
+line-height: 50px;
+}
+
+ul a{
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Catamaran', sans-serif;
+    text-transform: uppercase;
+
+}
+h1 a {
+    text-decoration: none;
+}
+footer a {
+    text-decoration: none;
+    letter-spacing: 3px;
+}
+footer{
+    letter-spacing: 4px;
+    font-family: 'Catamaran', sans-serif;
+}
+.dentro {
+    list-style-position: inside;
+}
+.fondoFuerte {
+    background-color:red;
+}
+.parallax {
+    background-image: url("../assets/img/estudiante1.JPG");
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+.fondoOscuro {
+    background-color:black;
+}
